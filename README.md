@@ -1,3 +1,4 @@
+# Live - https://smartdashboard.onrender.com/
 # 📊 Personal Dashboard - Widget-Based UI
 
 A customizable personal dashboard built using **React** and **Tailwind CSS**. Users can easily add, remove, search, and filter widgets. Clean, modern UI with responsive layout and real-time interactivity.
