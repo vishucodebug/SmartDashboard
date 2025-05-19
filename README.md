@@ -11,6 +11,7 @@ A customizable personal dashboard built using **React** and **Tailwind CSS**. Us
 - 🎨 **Tailwind CSS Styling**  
 - 🧼 Minimal, clean, and responsive UI  
 - ♿ Keyboard and accessibility support
+- Charts like Pie Chart, Line Chart and Bar Charts to show better Graphical data
 
 
 ## 🛠 Tech Stack
@@ -28,7 +29,7 @@ A customizable personal dashboard built using **React** and **Tailwind CSS**. Us
 ### 1. Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/vishucodebug/SmartDashboard.git
 cd dashboard
 npm install
 npm install recharts
